@@ -1,6 +1,8 @@
 # godot-draggable-control
 Behaviour script for dragging a control via touch. With many settings.
 
+Reddit post with video demonstrating it: [Reddit](https://www.reddit.com/r/godot/comments/h151f0/built_a_draggable_control_with_zoom_and_many/)
+
 Done in v3.2.2.beta2.official. Should work with older version as well.
 
 There are 2 example-scenes that work and should enable you to quickly understand the way to setup the Script.
