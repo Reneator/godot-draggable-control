@@ -30,5 +30,4 @@ texture = ExtResource( 1 )
 expand = true
 stretch_mode = 6
 script = ExtResource( 2 )
-max_zoom_in_steps = 20
 restrict_mode = "parent"

@@ -15,11 +15,14 @@ script = ExtResource( 2 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
+only_drag_on_mouse_in_parent = false
 inverse_restriction = true
 
 [node name="Label" type="Label" parent="."]
-margin_right = 40.0
-margin_bottom = 14.0
+margin_left = 195.954
+margin_top = 313.527
+margin_right = 846.954
+margin_bottom = 344.527
 text = "This would be the \"Camera in Map example\".
 For this to work you need the inverse setting (you can copy the settings from the control of this scene"
 __meta__ = {
